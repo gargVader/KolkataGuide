@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Kolkata Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="places_victoria_memorial_title">Victoria Memorial</string>
+    <string name="places_victoria_memorial_location_area">Maidan</string>
+    <string name="places_howrah_bridge_title">Howrah Bridge</string>
+    <string name="places_howrah_bridge_location_area">Howrah</string>
+    <string name="places_dakshineshwar_temple_title">Dakshineshwar Temple</string>
+    <string name="places_dakshineshwar_temple_location_area">Belur Math</string>
+    <string name="places_eden_gardens_title">Eden Gardens</string>
+    <string name="places_eden_gardens_location_area">Maidan</string>
+    <string name="places_eco_park_title">Eco Park</string>
+    <string name="places_eco_park_location_area">Salt Lake</string>
+    <string name="places_prinsep_ghat_title">Prinsep Ghat</string>
+    <string name="places_prinsep_ghat_location_area">Maidan</string>
+    <string name="places_science_city_title">Science City</string>
+    <string name="places_science_city_location_area">Eastern Metropolitan Bypass</string>
+    <string name="places_birla_planeterium">Birla Planeterium</string>
+    <string name="places_birla_planeterium_location_area">Exide More</string>
+    <string name="food_oh_calcutta_title">Oh! Calcutta</string>
+    <string name="food_oh_calcutta_type">Bengali</string>
+    <string name="food_arsalan_title">Arsalan</string>
+    <string name="food_arsalan_type">Indian, Halal</string>
+    <string name="food_kusum_rolls_title">Kusum Rolls</string>
+    <string name="food_kusum_rolls_type">Indian, Fast Food</string>
+    <string name="food_kwality_title">Kwality</string>
+    <string name="food_kwality_type">Indian, Continental</string>
+    <string name="food_anand_restraunt_title">Anand Restraunt</string>
+    <string name="food_anand_restraunt_type">South Indian</string>
+    <string name="food_peter_cat_titile">Peter Cat</string>
+    <string name="food_peter_cat_type">English</string>
+    <string name="food_mocambo_title">Mocambo</string>
+    <string name="food_mocambo_type">Indian, English</string>
+    <string name="hotel_hindusthan_international_title">Hotel Hindusthan International</string>
+    <string name="hotel_hindusthan_international_location_area">Exide More</string>
+    <string name="hotel_novotel_title">Novotel</string>
+    <string name="hotel_novotel_location_area">Newtown</string>
+    <string name="hotel_itc_royal_bengal_title">ITC Royal Bengal</string>
+    <string name="hotel_itc_royal_bengal_location_area">Eastern Metropolitan Bypass</string>
+    <string name="hotel_hyyat_regency_title">Hyyat Regency</string>
+    <string name="hotel_hyyat_regency_location_area">Bidhannagar</string>
+    <string name="hotel_hotel_de_sovrani_title">Hotel De Sovrani</string>
+    <string name="hotel_park_hotel_title">Park Hotel</string>
+    <string name="hotel_park_hotel_location_area">Park Street</string>
+    <string name="hotel_jw_marriot_title">JW Marriot</string>
+    <string name="hotel_jw_marriot_location_area">Eastern Metropolitan Bypass</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+</resources>

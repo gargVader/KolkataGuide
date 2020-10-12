@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0288D1</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <color name="tabTextColor">#B3E5FC</color>
+    <color name="tabSelectedTextColor">@android:color/white</color>
+
+    <color name="tabIndicatorColor">@android:color/white</color>
+    <color name="tabBackground">@color/colorPrimary</color>
+
+    <color name="actionBarPrimaryText">#a80000</color>
+    <color name="itemTitleText">#000000</color>
+    <color name="reviewStar">#ffaa00</color>
+
+
+    <color name="primary">#03A9F4</color>
+    <color name="primary_dark">#0288D1</color>
+    <color name="primary_light">#B3E5FC</color>
+    <color name="accent">#03A9F4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!--<color name="colorPrimary">#ff2d54</color>
+    <color name="colorPrimaryDark">#ff2d54</color>
+    <color name="colorAccent">#ff4264</color>
+
+    <color name="tabTextColor">#ffced7</color>
+    <color name="tabSelectedTextColor">@android:color/white</color>
+
+    <color name="tabIndicatorColor">@android:color/white</color>
+    <color name="tabBackground">@color/colorPrimary</color>
+
+    <color name="actionBarPrimaryText">#a80000</color>
+    <color name="itemTitleText">#000000</color>
+    <color name="reviewStar">#ffaa00</color>-->
+
+
+
+</resources>
